@@ -1,10 +1,10 @@
 {
   "zedcustomer" : "nivatest zed",
   "plantsize": 160,
-  "zedlimit": 0,
+  "zedlimit": -100,
   "plantoperatingpercentage":100,
     "resetzed": "n",
-  "zedbasedon": "load",
+  "zedbasedon": "grid",
   "zedmeter": [
     {
       "zedmeterid": 3,
