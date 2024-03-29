@@ -1,6 +1,7 @@
 {
       "name": "nivatest",
       "deviceId": 1,
+         "debug": "y",
       "deviceType": "solar"
 }
 
